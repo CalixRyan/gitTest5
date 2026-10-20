@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hello Git 로컬 Develop
 로컬 Develop
+=======
+Hello Git 원격 Develop
+원격 Develop
+>>>>>>> branch 'develop' of https://github.com/CalixRyan/gitTest5.git
